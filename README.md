@@ -14,5 +14,5 @@ Environmental
 
 * [Academic Jobs Online](https://academicjobsonline.org/ajo)
 * [AEESP job](https://www.aeesp.org/jobs)
-* [Academictransfer.com](https://www.academictransfer.com/en/): Academic jobs in the Netherlands
+
 
